@@ -1,1 +1,1 @@
-print("kgisl")
+print("kgisl college")
